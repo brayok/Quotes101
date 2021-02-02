@@ -49,7 +49,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Live Demo
 To view the page click on the link below
-* [brayok.github.io/quotes/](*)
+* [brayok.github.io/Quotes101/](*)
 
 ## Technologies Used
 - Angular CLI
